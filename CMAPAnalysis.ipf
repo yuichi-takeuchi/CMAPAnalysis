@@ -3,7 +3,6 @@
 #pragma IgorVersion = 6.3.7.2		// Igor Pro 6.0 or later
 
 // A procedure for CMAP recordings on LabChart7.
-// Reference: Byrne PJ et al. (2005) Arch Facial Plast Surg 7:114-118. 
 
 Macro CMAP_Preparation()
 	CMAP_GlobalVariables()
