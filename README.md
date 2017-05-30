@@ -31,7 +31,7 @@ Help:
 
 CMAP_Help of Macro in Menu.
 
-
+[![DOI](https://zenodo.org/badge/92870255.svg)](https://zenodo.org/badge/latestdoi/92870255)
 
 Releases:
 
