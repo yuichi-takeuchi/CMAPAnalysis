@@ -28,14 +28,17 @@ How to use:
 11. You can prepare publish quality average trace by MGraph1-5 buttons.
 
 Help:
+
 CMAP_Help of Macro in Menu.
 
 
 
 Releases:
+
 Ver 1.0.0, 2017/05/30
 
 References:
+
 Matsumine H, Sasaki R, Takeuchi Y, Miyata M, Yamato M, Okano T, Sakurai H (2014) Vascularized versus Nonvascularized Island Median Nerve Grafts in the Facial Nerve Regeneration and Functional Recovery of Rats for Facial Nerve Reconstruction Study. Journal of reconstructive microsurgery 30:127-136.
 
 Matsumine H, Takeuchi Y, Sasaki R, Kazama T, Kano K, Matsumoto T, Sakurai H, Miyata M, Yamato M (2014) Adipocyte-derived and dedifferentiated fat cells promoting facial nerve regeneration in a rat model. Plast Reconstr Surg 134:686-697.
