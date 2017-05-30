@@ -11,7 +11,7 @@ E-mail: yuichi-takeuchi@umin.net
 
 How to install:
 1. Install Igor Pro 6.0 or later.
-2. Put CMAPAnalysis.ipf or shortcut for it into Igor Procedures folder in Igor Pro Folder.
+2. Put CMAPAnalysis.ipf or shortcut for it into the Igor Procedures folder in the Igor Pro Folder.
 3. Restart Igor Pro.
 
 How to use:
