@@ -1,5 +1,5 @@
 # CMAPAnalysis
-An Igor Pro procedure with GUI which enables averaging, analyses, figure preparation of evoked potentials. The parameters for analysis are latency, duration, amplitude, rectified area, and conduction velocity of the averaged evoked potentials. These parameters are stored on a table and can be exported as a csv file.
+An Igor Pro procedure with GUI used for averaging, analyses, figure preparation of evoked potentials. The parameters for analysis are latency, duration, amplitude, rectified area, and conduction velocity of the averaged evoked potentials. These parameters are stored on a table and can be exported as a csv file.
 
 This procedure file was written to analyze compound muscle action potentials (CMAPs) in vibrissal muscles evoked by electrical stimulation of the buccal branch of the facial nerve of rotents. But it could be utilized general analysis of evoked potentials.
 
