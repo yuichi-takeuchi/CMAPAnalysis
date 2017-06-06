@@ -11,7 +11,7 @@ E-mail: yuichi-takeuchi@umin.net
 
 How to install:
 1. Install Igor Pro 6.1 or later.
-2. Put CMAPAnalysis.ipf or shortcut for it into the Igor Procedures folder in the Igor Pro Folder or <My Documents>\WaveMetrics\Igor Pro 6 User Files\Igor Procedures.
+2. Put CMAPAnalysis.ipf or shortcut for it into the Igor Procedures, which is normally located as My Documents\WaveMetrics\Igor Pro 6 User Files\Igor Procedures.
 3. Restart Igor Pro.
 
 How to use:
