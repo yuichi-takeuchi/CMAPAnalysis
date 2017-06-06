@@ -1,17 +1,17 @@
 # CMAPAnalysis
 An Igor Pro procedure with GUI which enables averaging, analyses, figure preparation of evoked potentials. The parameters for analysis are latency, duration, amplitude, rectified area, and conduction velocity of the averaged evoked potentials. These parameters are stored on a table and can be exported as a csv file.
 
-This procedure file was written for analyze compound muscle action potentials (CMAPs) in vibrissal muscles evoked by electrical stimulation of the buccal branch of the facial nerve of rotents. But it could be utilized general analysis of evoked potentials.
+This procedure file was written to analyze compound muscle action potentials (CMAPs) in vibrissal muscles evoked by electrical stimulation of the buccal branch of the facial nerve of rotents. But it could be utilized general analysis of evoked potentials.
 
-This code has been tested in Igor Pro version 6.3.7.2. for Windows.
+This code has been tested in Igor Pro version 6.3.7.2. for Windows and supposed to work in Igor Pro 6.1 or later.
 
 Claimes to Yuichi Takeuchi PhD of Department of Physiolgy, University of Szeged, Hungary
 
 E-mail: yuichi-takeuchi@umin.net
 
 How to install:
-1. Install Igor Pro 6.0 or later.
-2. Put CMAPAnalysis.ipf or shortcut for it into the Igor Procedures folder in the Igor Pro Folder.
+1. Install Igor Pro 6.1 or later.
+2. Put CMAPAnalysis.ipf or shortcut for it into the Igor Procedures folder in the Igor Pro Folder or <My Documents>\WaveMetrics\Igor Pro 6 User Files\Igor Procedures.
 3. Restart Igor Pro.
 
 How to use:
