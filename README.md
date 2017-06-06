@@ -37,7 +37,7 @@ Releases:
 
 Ver 1.0.0, 2017/05/30
 
-References:
+CMAPAnalysis procedure has been used for the following references:
 
 Matsumine H, Sasaki R, Takeuchi Y, Miyata M, Yamato M, Okano T, Sakurai H (2014) Vascularized versus Nonvascularized Island Median Nerve Grafts in the Facial Nerve Regeneration and Functional Recovery of Rats for Facial Nerve Reconstruction Study. Journal of reconstructive microsurgery 30:127-136.
 
