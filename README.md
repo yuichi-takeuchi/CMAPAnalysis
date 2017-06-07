@@ -47,7 +47,6 @@ This project is licensed under the MIT License.
 
 ## Acknowledgments
 * Department of Physiology, Tokyo Women's Medical University, Tokyo, Japan
-* Department of Information Physiology, National Institute for Physiological Sciences, Okazaki, Japan
 
 ## References
 CMAPAnalysis has been used for the following works:
