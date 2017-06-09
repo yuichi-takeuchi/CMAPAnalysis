@@ -5,6 +5,7 @@ An Igor Pro procedure with GUI used for averaging, analyses, figure preparation 
 
 ### Prerequisites
 * IGOR Pro 6 (https://www.wavemetrics.com/)
+
 This code has been tested in Igor Pro version 6.3.7.2. for Windows and supposed to work in Igor Pro 6.1 or later.
 
 ### Installing
