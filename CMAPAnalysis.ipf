@@ -1,8 +1,24 @@
 #pragma rtGlobals = 1				// Use modern global access method.
-#pragma version = 1.0.0			//by Yuichi Takeuchi 140122
-#pragma IgorVersion = 6.3.7.2		// Igor Pro 6.0 or later
+#pragma version = 1.0.0			
+#pragma IgorVersion = 6.1		// Igor Pro 6.1 or later
 
-// A procedure for CMAP recordings on LabChart7.
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+// This procedure (CMAPAnalysis) offers an analytical environment for evoked potentials.
+// The results can be exported as a csv file.
+// Latest version is available at Github (https://github.com/yuichi-takeuchi/CMAPAnalysis).
+//
+// Prerequisites:
+//* Igor Pro 6.1 or later
+//
+// Author:
+// Yuichi Takeuchi PhD
+// Department of Physiology, University of Szeged, Hungary
+// Email: yuichi-takeuchi@umin.net
+// 
+// Lisence:
+// MIT License
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 
 Macro CMAP_Preparation()
 	CMAP_GlobalVariables()
