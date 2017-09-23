@@ -10,8 +10,9 @@ This code has been tested in Igor Pro version 6.3.7.2. for Windows and supposed 
 
 ### Installing
 1. Install Igor Pro 6.1 or later.
-2. Put CMAPAnalysis.ipf or shortcut for it into the Igor Procedures, which is normally located as My Documents\WaveMetrics\Igor Pro 6 User Files\Igor Procedures.
-3. Restart Igor Pro.
+2. Put CMAPAnalysis.ipf or shortcut for it into the Igor Procedures folder, which is normally located at My Documents\WaveMetrics\Igor Pro 6 User Files\Igor Procedures.
+3. Put CMAPAnalysis Help.ihf or shortcut for it into the Igor Help Files folder, which is normally located at My Documents\WaveMetrics\Igor Pro 6 User Files\Igor Help Files.
+4. Restart Igor Pro.
 
 ### How to use
 1. Click "CMAP_Preparation" in Macro of Menu. GUI control panel CMAPControlPanel will appear. Global variables are stored in root/Packages/CMAP.
