@@ -25,10 +25,10 @@ This code has been tested in Igor Pro version 6.3.7.2. for Windows and supposed 
 8. Put cursor A and B, at the begining and ending of the averaged CMAP, respectively.
 9. Set the stimulus artifact onset and nerve length parameters in edit boxes on the control panel.
 10. Press Run, Print, Edit, and Save buttons and you will have results on the table, history, and edit boxes on the control panel. And have csv files with an windows prompt.
-11. You can prepare publish quality average trace by MGraph1-5 buttons.
+11. You can prepare publish quality average trace graphs by MGraph1-5 buttons.
 
 ### Help:
-* CMAP_Help of Macro in Menu.
+* CMAP_Help of Macro in Menu or find 'CMAPAnalysis' in Topic of the Help Browser.
 
 ## DOI
 [![DOI](https://zenodo.org/badge/92870255.svg)](https://zenodo.org/badge/latestdoi/92870255)
