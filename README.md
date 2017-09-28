@@ -18,11 +18,11 @@ This code has been tested in Igor Pro version 6.3.7.2. for Windows and supposed 
 1. Click "CMAP_Preparation" in Macro of Menu. GUI control panel CMAPControlPanel will appear. Global variables are stored in root/Packages/CMAP.
 2. Display multiple waves you want to analyze into a graph.
 3. Specify the graph as the target window by pressing Get button of Target Window group on the control panel
-4. Get the list of sourse waves by pressing Get button of Target Wave group on the control panel.
-5. Duplicate the sourse waves by pressing Duplicate button of Target Wavelist group on the control panel.
+4. Get the list of source waves by Get button in Target Wave group on the control panel.
+5. Duplicate the source waves by Duplicate button in Target Wavelist group on the control panel.
 6. Subtract the baseline dc shift from each wave by pressing BaseSub button of Target Wavelist group on the control panel.
 7. Average the duplicated waves by pressing Average button.
-8. Put cursor A and B, at the begining and ending of the averaged CMAP, respectively.
+8. Put cursor A and B, at the beginning and ending of the averaged CMAP, respectively.
 9. Set the stimulus artifact onset and nerve length parameters in edit boxes on the control panel.
 10. Press Run, Print, Edit, and Save buttons and you will have results on the table, history, and edit boxes on the control panel. And have csv files with an windows prompt.
 11. You can prepare publish quality average trace graphs by MGraph1-5 buttons.
