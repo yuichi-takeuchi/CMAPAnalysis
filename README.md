@@ -10,7 +10,7 @@ This code has been tested in Igor Pro version 6.3.7 for Windows and Macintosh an
 
 ### Installing
 1. Install Igor Pro 6.1 or later.
-2. Move CMAPAnalysis.ipf or its shortcut to the Igor Procedures folder, which is located in default at C:\Users\ *User* \Documents\WaveMetrics\Igor Pro 6 User Files\Igor Procedures in Windows and /Users/*User*/Documents/WaveMetrics/Igor Pro 6 User Files/Igor Procedures in Macintosh.
+2. Move CMAPAnalysis.ipf or its shortcut to the Igor Procedures folder, which is located in default at C:\Users\*<User>* \Documents\WaveMetrics\Igor Pro 6 User Files\Igor Procedures in Windows and /Users/*User*/Documents/WaveMetrics/Igor Pro 6 User Files/Igor Procedures in Macintosh.
 3. Move CMAPAnalysis Help.ihf or its shortcut to the Igor Help Files folder, which is located in default at C:\Users\ *User* \Documents\WaveMetrics\Igor Pro 6 User Files\Igor Help Files in Windows and /Users/*User*/Documents/WaveMetrics/Igor Pro 6 User Files/Igor Help Files in Macintosh.
 4. Restart Igor Pro.
 
