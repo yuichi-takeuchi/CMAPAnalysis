@@ -6,12 +6,12 @@ An Igor Pro procedure with GUI used for averaging, analyses, figure preparation 
 ### Prerequisites
 * IGOR Pro 6 (https://www.wavemetrics.com/)
 
-This code has been tested in Igor Pro version 6.3.7.2. for Windows and supposed to work in Igor Pro 6.1 or later.
+This code has been tested in Igor Pro version 6.3.7 for Windows and Macintosh and supposed to work in Igor Pro 6.1 or later.
 
 ### Installing
 1. Install Igor Pro 6.1 or later.
-2. Put CMAPAnalysis.ipf or shortcut for it into the Igor Procedures folder, which is normally located at My Documents\WaveMetrics\Igor Pro 6 User Files\Igor Procedures.
-3. Put CMAPAnalysis Help.ihf or shortcut for it into the Igor Help Files folder, which is normally located at My Documents\WaveMetrics\Igor Pro 6 User Files\Igor Help Files.
+2. Move CMAPAnalysis.ipf or its shortcut to the Igor Procedures folder, which is located in default at C:\Users\<user>\Documents\WaveMetrics\Igor Pro 6 User Files\Igor Procedures in Windows and /Users/<user>/Documents/WaveMetrics/Igor Pro 6 User Files/Igor Procedures in Macintosh.
+3. Put CMAPAnalysis Help.ihf or shortcut for it into the Igor Help Files folder, which is located in default at C:\Users\<user>\Documents\WaveMetrics\Igor Pro 6 User Files\Igor Help Files in Windows and /Users/<user>/Documents/WaveMetrics/Igor Pro 6 User Files/Igor Help Files in Macintosh.
 4. Restart Igor Pro.
 
 ### How to use
